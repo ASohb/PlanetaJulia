@@ -1,0 +1,14 @@
+[
+    {
+        "planeta": "Marte",
+        "descricao": "Planeta Vermelho",
+        "sobre": "Marte ...."
+    },
+    
+     {
+        "planeta": "Terra",
+        "descricao": "Planeta Azul",
+        "sobre": "Terra ...."
+    }
+    
+]
